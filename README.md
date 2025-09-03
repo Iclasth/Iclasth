@@ -20,7 +20,7 @@
 
  ##
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iclasth&theme=transparent&bg_color=000000&border_color=800080&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=Bloxorz&bg_color=000000&border_color=800080&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8)](https://github.com/Iclasth/Bloxorz)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italo2403)](https://github.com/Iclasth/github-readme-stats)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-discover&bg_color=000000&border_color=800080&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8)](https://github.com/Iclasth/Bloxorz)
 
 
