@@ -26,7 +26,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iclasth&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth)
 
 <!-- Repository Card -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-discover&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth/projeto_discover)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-discover&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth/projeto-discover)
 
 
 
