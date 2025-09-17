@@ -19,9 +19,14 @@
  <img align="center" alt="Iclas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Iclas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Iclas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Iclas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img height ="30" width="40" alt="Iclas-dotnet" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"/>
 
  ##
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iclasth&theme=transparent&bg_color=000000&border_color=800080&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iclasth&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080)](https://github.com/Iclasth/github-readme-stats)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-discover&bg_color=000000&border_color=800080&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8)](https://github.com/Iclasth/Bloxorz)
+ <!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iclasth&theme=transparent&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8&border_color=800080)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iclasth&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth)
+
+<!-- Repository Card -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-exemplo&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth/projeto_discover)
 
 
 
