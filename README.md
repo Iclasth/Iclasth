@@ -10,9 +10,7 @@
 ## Conecte-se comigo! 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iclei-arthur-270513334/)  
-[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iclasth7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/Iclasth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iclei-arthur-270513334/) [![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iclasth7/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/Iclasth)
 
 ## Minhas tecnologias 
 
