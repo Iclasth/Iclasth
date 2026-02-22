@@ -4,7 +4,6 @@
 
 * **Estou cursando Análise e Desenvolvimento de Sistemas** 🧑‍💻
 * **Sou um estudante auto didáta e busco estar sempre adquirindo novos conhecimentos** 📚
-* **Tenho o objetivo de me tornar um Desenvolvedor de Jogos** 💻
 * **Gosto muito de jogar nos meus tempos livres** 🎮
 
 ## Conecte-se comigo! 
