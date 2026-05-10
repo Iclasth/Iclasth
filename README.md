@@ -1,37 +1,46 @@
-# Olá! Tudo bem? Me chamo **Iclei** 🤓
+# 👩🏻‍💻 Iclei Arthur
 
-## Sobre mim
+**`Desenvolvedor FullStack`**
 
-* **Estou cursando Análise e Desenvolvimento de Sistemas** 🧑‍💻
-* **Sou um estudante auto didáta e busco estar sempre adquirindo novos conhecimentos** 📚
-* **Gosto muito de jogar nos meus tempos livres** 🎮
+Olá! Sou Iclei Arthur, desenvolvedor Full Stack, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Com base sólida em ecossistemas C# e .NET, utilizo ferramentas como Entity Framework para persistência de dados e construção de APIs robustas. Atualmente, estou expandindo meu foco para o desenvolvimento de interfaces modernas e responsivas, buscando a integração completa entre back e front-end. ☝️🤓
 
-## Conecte-se comigo! 
+## Conecte-se comigo!
 
+<p align="left">
+<!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/iclei-arthur-270513334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn">
+    </a>
+<!-- Instagram -->
+    <a href="https://www.instagram.com/_iclasth7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0047AB?style=for-the-badge&logo=instagram&logoColor=FF4500" alt="Instagram">
+    </a>
+<!-- GitHub -->
+    <a href="https://github.com/Iclasth" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub">
+    </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iclei-arthur-270513334/) [![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iclasth7/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/Iclasth)
+---
 
-## Minhas tecnologias 
+### 🤖 Linguagens e Tecnologias
 
-<img align="center" alt="Iclas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Iclas-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/><img align="center" alt="Iclas-EFCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"/><img align="center" alt="Iclas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Iclas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Iclas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><img align="center" alt="Iclas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/><img align="center" alt="Iclas-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-          
-          
-          
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,flutter,azure,angular,sqlite,git" />
+  </a>
+</p>
 
-          
+<br/>
+<br/>
 
-          
+### 📊 Estatísticas
 
- ##
- <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iclasth&theme=transparent&show_icons=true&icon_color=800080&title_color=D8BFD8&text_color=D8BFD8&border_color=800080)
-
+<p>
+<!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Iclasth&theme=transparent&show_icons=true&icon_color=0077B5&title_color=FF0000&text_color=00BFFF&border_color=FF0000" alt="GitHub Stats">
 <!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iclasth&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth)
-
-<!-- Repository Card -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iclasth&repo=projeto-discover&theme=transparent&title_color=D8BFD8&text_color=D8BFD8&icon_color=800080)](https://github.com/Iclasth/projeto-discover)
-
-
-
+    <a href="https://github.com/Iclasth" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iclasth&theme=transparent&title_color=FF0000&text_color=00BFFF&icon_color=0077B5&border_color=FF0000" alt="Top Languages">
+    </a>
+</p>
