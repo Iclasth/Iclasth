@@ -27,7 +27,7 @@ Olá! Sou Iclei Arthur, desenvolvedor Full Stack, tenho 19 anos e sou estudante 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,ts,py,flutter,azure,angular,sqlite,git,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,ts,py,flutter,azure,angular,sqlite,docker,git,unity" />
   </a>
 </p>
 
