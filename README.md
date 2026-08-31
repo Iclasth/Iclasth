@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Iclei Arthur
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
-Olá! Sou Iclei Arthur, desenvolvedor Full Stack, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Com base sólida em ecossistemas C# e .NET, utilizo ferramentas como Entity Framework para persistência de dados e construção de APIs robustas. Atualmente, estou expandindo meu foco para o desenvolvimento de interfaces modernas e responsivas, buscando a integração completa entre back e front-end. ☝️🤓
+Olá! Sou Iclei Arthur, desenvolvedor Back End, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Com base sólida em ecossistemas C# e .NET, utilizo ferramentas como Entity Framework para persistência de dados e construção de APIs robustas. Atualmente, estou expandindo meu foco para o desenvolvimento de interfaces modernas e responsivas, buscando a integração completa entre back e front-end. ☝️🤓
 
 ## Conecte-se comigo!
 
