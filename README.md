@@ -27,7 +27,7 @@ Olá! Sou Iclei Arthur, desenvolvedor Back End, tenho 19 anos e sou estudante de
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,js,ts,py,flutter,azure,angular,sqlite,docker,git,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,azure,angular,sqlite,docker,git,unity" />
   </a>
 </p>
 
